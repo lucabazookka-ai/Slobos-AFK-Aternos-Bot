@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "smp_de_vacanta.aternos.me",
+    "port": 63562,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
