@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "smp_de_vacanta.aternos.me",
-    "port": 63562,
-    "version": "26.1.2",
+    "port": 26985,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
