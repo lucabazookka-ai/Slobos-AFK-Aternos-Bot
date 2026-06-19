@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Dream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "smp_de_vacanta.aternos.me",
-    "port": 26985,
-    "version": "1.21.1",
+    "ip": "lifestealvacanta.falixsrv.me",
+    "port": 53926,
+    "version": "1.21.8",
     "try-creative": false
   },
   "position": {
