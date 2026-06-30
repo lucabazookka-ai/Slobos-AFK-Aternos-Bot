@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "server_de_sandralau.aternos.me",
-    "port": 38133,
-    "version": "1.21.1",
+    "ip": "lifestealvacanta.falixsrv.me",
+    "port": 53926,
+    "version": "1.21.8",
     "try-creative": false
   },
   "position": {
